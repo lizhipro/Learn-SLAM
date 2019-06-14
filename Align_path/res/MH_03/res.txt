@@ -1,0 +1,5 @@
+MSCKF(Rot(rad)  Trans(m)): 
+    0.0182    0.1495
+
+VINS(Rot(rad)  Trans(m)): 
+    0.0056    0.0866
