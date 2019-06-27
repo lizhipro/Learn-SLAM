@@ -1,4 +1,0 @@
-/home/lee/Code/linetri (copy)/build/test/CMakeFiles/extract_data.dir
-/home/lee/Code/linetri (copy)/build/test/CMakeFiles/line_matching.dir
-/home/lee/Code/linetri (copy)/build/src/CMakeFiles/linetri.dir
-/home/lee/Code/linetri (copy)/build/test/CMakeFiles/triangulation.dir

@@ -5,7 +5,7 @@ Make a compare between two opensource project VINS and MSCKF. 1.Compute RMSE plo
 ### Dependence
 MATLAB R2016b
 ************************************************************************
-## Line Restruction
+## Line Reconstruction
 According to real position and orientation of camera, compute the 3D position of line features in images. Then plot in MATLAB.
 ### Dependence
 MATLAB R2016b; OpenCV 3.1.0;<br> 
